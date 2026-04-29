@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  3 10:12:11 2023
-
-@author: 39348
-"""
-
-
 import numpy 
 import matplotlib.pyplot as plt
 from Func import p_rho_T

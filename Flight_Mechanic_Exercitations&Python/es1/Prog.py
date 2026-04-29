@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun  2 17:09:24 2023
-
-@author: 39348
-"""
-
 import tkinter as tk
 import numpy 
 import sys
